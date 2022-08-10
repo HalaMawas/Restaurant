@@ -1,0 +1,30 @@
+.menu ,.menu .menu-tab .tab-content {
+    direction: rtl;
+    }
+.menu .menu-text h3 strong {
+    
+        float: left;
+    padding-right: 5px;
+   
+}
+.menu .menu-text h3 span {
+    float: right;
+}
+.menu .menu-text p {
+    margin: 15px 0px 0 0;
+    float: right;
+    }
+    .blog .blog-content {
+    text-align: right;
+    direction: rtl;
+}
+.blog .blog-meta p {
+
+    text-align: right;
+    direction: rtl;
+}
+.menu .menu-img {
+    width: 80px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
